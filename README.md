@@ -230,11 +230,11 @@
         <h2>
             Coffe house
         </h2>
-        <img src="Coffee House  Meat Market (1).jpg" alt="Coffe house">
-        <img src="Coffee House (1).jpg" alt="Coffe house">
-        <img src="Coffee House2 (1).jpg" alt="Coffe house">
-        <img src="Int Coffee house 2.jpg" alt="Coffe house">
-        <img src="Present day coffee house.JPG" alt="Coffe house">
+        <img src="https://i.imgur.com/fNrDxrK.jpg" alt="Coffe house">
+        <img src="https://i.imgur.com/R1tOxG9.jpg" alt="Coffe house">
+        <img src="https://i.imgur.com/taLwfoF.jpg" alt="Coffe house">
+        <img src="https://i.imgur.com/IbunM8c.jpg" alt="Coffe house">
+        <img src="https://i.imgur.com/JB543qs.jpg" alt="Coffe house">
 
     </div>
     <div><h2>Darlington</h2>
@@ -255,7 +255,7 @@
     
         </h2>
         <img src="Wasatch fall 1948.jpg" alt="Other pictures">
-        <img src="class of 1950.png" alt="Other pictures">
+        <img src="https://i.imgur.com/pUahNG3.jpg" alt="Other pictures">
         <img src="Copy of Infirmary 2.jpg" alt="Other pictures">
         <img src="Jensen fam.jpeg" alt="Other pictures">
         <img src="Jensen History.jpg" alt="Other pictures">
